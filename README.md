@@ -2,7 +2,7 @@
 
 React 使用[antd](https://ant.design/index-cn)上傳圖片、影片，並取得base64的image呈現縮圖。
 
-[DEMO](https://reactmaker.github.io/react_thumbnail/#/)
+[Demo](https://reactmaker.github.io/react_thumbnail/#/)
 
 ## 特色
 
