@@ -32,7 +32,7 @@ $ npm start                     # Compile and launch
 
 ![Imgur](http://i.imgur.com/14aROBn.png)
 
-![Imgur](https://i.imgur.com/T0PKgHY.png)
+![Imgur](https://i.imgur.com/rFw3TlE.gif)
 
 開發當中最常用到的是 `npm start` 指令，我們還有一些其他的指令要介紹給你知道
 
