@@ -4,6 +4,8 @@ React 使用[antd](https://ant.design/index-cn)上傳圖片、影片，並取得
 
 [Demo](https://reactmaker.github.io/react_thumbnail/#/)
 
+![Imgur](https://i.imgur.com/rFw3TlE.gif)
+
 ## 特色
 
 * [react](https://github.com/facebook/react)
@@ -31,8 +33,6 @@ $ npm start                     # Compile and launch
 如果一切成功，就會看到以下畫面，並且瀏覽器會打開的範例頁面
 
 ![Imgur](http://i.imgur.com/14aROBn.png)
-
-![Imgur](https://i.imgur.com/rFw3TlE.gif)
 
 開發當中最常用到的是 `npm start` 指令，我們還有一些其他的指令要介紹給你知道
 
